@@ -1,4 +1,3 @@
-# https://regex101.com/r/AwT4Ll/8
 import os, sys, re, shutil
 from xml.etree.ElementTree import Element, SubElement, Comment, ElementTree, tostring
 
